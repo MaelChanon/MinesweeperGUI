@@ -1,0 +1,5 @@
+longueur : 15
+largeur : 15
+mines : 40
+timer : 200
+theme : -1
